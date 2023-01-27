@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c02a8825-dd90-4fdc-b043-abf3c3fd957c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiHilo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio1/Contador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio1/Hilo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio1/Hilo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio2/Hilo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio2/Saldo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ejercicio2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicio1.Main" />
       <module name="MultiHilo" />
@@ -63,8 +57,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ejercicio2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio2.Main" />
+      <module name="MultiHilo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ejercicio2.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -78,9 +86,19 @@
       <option name="presentableId" value="Default" />
       <updated>1674830930345</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ejercicio 1 Resuelto">
+      <created>1674832966789</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674832966789</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Ejercicio 1 Resuelto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 1 Resuelto" />
   </component>
 </project>
