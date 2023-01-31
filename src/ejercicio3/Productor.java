@@ -25,7 +25,7 @@ public class Productor extends Thread {
                 for (int i = 0; i < value.length(); i++) {
                     if (value.charAt(i) != ' '){
                         cola.put(value.charAt(i));
-                        System.out.println(getState());
+
                     }
                     try {
                         sleep(100);

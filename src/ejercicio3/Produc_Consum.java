@@ -6,7 +6,7 @@ public class Produc_Consum {
         Cola cola = new Cola();
 
         Productor p = new Productor(cola, filePath);
-        Consumidor c = new Consumidor(cola, 1);
+        Consumidor c = new Consumidor(cola, filePath);
 
         p.start();
         c.start();

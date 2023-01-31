@@ -1,17 +1,40 @@
 package ejercicio3;
 
+import java.io.IOException;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.List;
+
 public class Consumidor extends Thread {
     private Cola cola;
+    private String file;
 
-    public Consumidor(Cola c, int n) {
-        cola = c;
+    public Consumidor(Cola c, String file) {
+        this.cola = c;
+        this.file = file;
     }
 
     public void run() {
-        char valor;
-        for (int i = 0; i < 5; i++) {
-            valor = cola.get();
+        Path path = Paths.get(file);
+        try {
+            List<String> contentList = Files.readAllLines(path, StandardCharsets.UTF_8);
+            for (String value :
+                    contentList) {
+                for (int i = 0; i < value.length(); i++) {
+                    if (value.charAt(i) != ' ') {
+                        char value2 = cola.get();
+                    }
+                    try {
+                        sleep(100);
+                    } catch (InterruptedException e) {
+                    }
+                }
+            }
             System.out.println(getState());
+        } catch (IOException e) {
+            throw new RuntimeException(e);
         }
     }
 }

@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c02a8825-dd90-4fdc-b043-abf3c3fd957c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ejercicio3/Cola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio3/Consumidor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio3/Produc_Consum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio3/Productor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio3/file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio3/Consumidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio3/Consumidor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio3/Produc_Consum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio3/Produc_Consum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio3/Productor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio3/Productor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,15 +41,9 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Brais/Desktop/Repositorios/MultiHilo&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Brais\Desktop\Repositorios\MultiHilo\src\ejercicio3" />
-    </key>
-  </component>
   <component name="RunManager" selected="Application.Produc_Consum">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicio1.Main" />
