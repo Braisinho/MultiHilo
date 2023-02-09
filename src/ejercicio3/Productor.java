@@ -12,7 +12,7 @@ public class Productor extends Thread {
     private String file;
 
     public Productor(Cola c, String file) {
-        cola = c;
+        this.cola = c;
         this.file = file;
     }
 
@@ -25,7 +25,6 @@ public class Productor extends Thread {
                 for (int i = 0; i < value.length(); i++) {
                     if (value.charAt(i) != ' '){
                         cola.put(value.charAt(i));
-
                     }
                     try {
                         sleep(100);

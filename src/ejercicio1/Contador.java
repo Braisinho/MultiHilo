@@ -14,7 +14,7 @@ public class Contador {
 
     public void aumento(){
         for (int i = 0; i < 1000; i++) {
-            valor += 1;
+            valor ++;
         }
     }
 }

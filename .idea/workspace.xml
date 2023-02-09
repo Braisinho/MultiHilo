@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c02a8825-dd90-4fdc-b043-abf3c3fd957c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio1/Contador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio1/Contador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ejercicio3/Consumidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio3/Consumidor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ejercicio3/Produc_Consum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio3/Produc_Consum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ejercicio3/Productor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio3/Productor.java" afterDir="false" />
@@ -41,7 +41,8 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Repositorios/MultiHilo&quot;
   }
 }</component>
   <component name="RunManager" selected="Application.Produc_Consum">
@@ -87,8 +88,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Produc_Consum" />
-        <item itemvalue="Application.ejercicio2.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ejercicio2.Main" />
       </list>
     </recent_temporary>
   </component>

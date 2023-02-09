@@ -24,7 +24,7 @@ public class Consumidor extends Thread {
                     contentList) {
                 for (int i = 0; i < value.length(); i++) {
                     if (value.charAt(i) != ' ') {
-                        char value2 = cola.get();
+                        cola.get();
                     }
                     try {
                         sleep(100);

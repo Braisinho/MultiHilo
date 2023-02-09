@@ -7,9 +7,11 @@ public class Produc_Consum {
 
         Productor p = new Productor(cola, filePath);
         Consumidor c = new Consumidor(cola, filePath);
+        
 
         p.start();
         c.start();
+
 
 
     }
